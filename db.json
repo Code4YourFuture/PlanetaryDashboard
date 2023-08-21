@@ -1,0 +1,76 @@
+{
+    "planets": [
+        {
+            "id": 1,
+            "name": "Mercury",
+            "god": "Mercury (Roman) - god of merchants, travelers, and messages",
+            "funFact": "Mercury has no moons and it's the smallest planet in the solar system.",
+            "avgDistanceFromSun": "57.9 million km",
+            "isInnerPlanet" : true,
+            "imgURL" : "assets/images/mercury.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Venus",
+            "god": "Venus (Roman) - goddess of love and beauty",
+            "funFact": "Venus rotates in the opposite direction to most planets, including Earth.",
+            "avgDistanceFromSun": "108.2 million km",
+            "isInnerPlanet" : true,
+            "imgURL" : "assets/images/venus.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Earth",
+            "god": "Not named after a god.",
+            "funFact": "Earth is the only known planet to support life.",
+            "avgDistanceFromSun": "149.6 million km",
+            "isInnerPlanet" : true,
+            "imgURL" : "assets/images/earth.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Mars",
+            "god": "Mars (Roman) - god of war",
+            "funFact": "Mars is often called the 'Red Planet' because of its reddish appearance.",
+            "avgDistanceFromSun": "227.9 million km",
+            "isInnerPlanet" : true,
+            "imgURL" : "assets/images/mars.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Jupiter",
+            "god": "Jupiter (Roman) - king of the gods",
+            "funFact": "Jupiter has the strongest magnetic field of all the planets.",
+            "avgDistanceFromSun": "778.5 million km",
+            "isInnerPlanet" : false,
+            "imgURL" : "assets/images/jupiter.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Saturn",
+            "god": "Saturn (Roman) - god of agriculture and wealth",
+            "funFact": "Saturn has a prominent ring system composed primarily of ice particles.",
+            "avgDistanceFromSun": "1.42 billion km",
+            "isInnerPlanet" : false,
+            "imgURL" : "assets/images/saturn.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Uranus",
+            "god": "Uranus (Greek) - god of the sky",
+            "funFact": "Uranus rotates on its side, making it unique among the solar system planets.",
+            "avgDistanceFromSun": "2.87 billion km",
+            "isInnerPlanet" : false,
+            "imgURL" : "assets/images/uranus.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Neptune",
+            "god": "Neptune (Roman) - god of the sea",
+            "funFact": "Neptune has the fastest winds in the solar system, reaching speeds up to 2,100 km/h.",
+            "avgDistanceFromSun": "4.5 billion km",
+            "isInnerPlanet" : false,
+            "imgURL" : "assets/images/neptune.jpg"
+        }
+    ]
+}
