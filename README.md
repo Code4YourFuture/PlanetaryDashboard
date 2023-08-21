@@ -1,6 +1,6 @@
 # 🌌 Planetary Dashboard with Angular 🚀
 
-Welcome to the Planetary Dashboard project! A beginner-friendly voyage into the depths of Angular development. If you've ever dreamt of exploring the solar system through code, you're in the right place. 
+Welcome to the Planetary Dashboard project from Coding Your Career! A beginner-friendly voyage into the depths of Angular development. If you've ever dreamt of exploring the solar system through code, you're in the right place. 
 
 ## Overview
 
